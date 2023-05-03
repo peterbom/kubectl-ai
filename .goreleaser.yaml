@@ -1,7 +1,7 @@
 project_name: kubectl-ai
 release:
   github:
-    owner: sozercan
+    owner: peterbom
     name: kubectl-ai
 builds:
   - id: kubectl-ai
